@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>presetTagID</key>
+	<integer>4</integer>
+	<key>hbArgs</key>
+	<string>--main-feature -E ca_aac,ac3</string>
+	<key>autoQueueVideoFromDownloads</key>
+	<false/>
+	<key>addToiTunesScript</key>
+	<string>tell application &quot;iTunes&quot; to add POSIX file &quot;%@&quot;</string>
+	<key>videoExtensions</key>
+	<string>rmvb,mpg,mp4,flv,wmv,mkv,m2ts,avi,3gp</string>
+	<key>tagIDToPresetDictionary</key>
+	<dict>
+		<key>1000</key>
+		<string>Universal</string>
+		<key>5</key>
+		<string>iPad</string>
+		<key>6</key>
+		<string>AppleTV 3</string>
+		<key>4</key>
+		<string>AppleTV 2</string>
+		<key>3</key>
+		<string>iPhone 4</string>
+		<key>2</key>
+		<string>AppleTV</string>
+		<key>1</key>
+		<string>iPhone &amp; iPod Touch</string>
+	</dict>
+	<key>addToTunes</key>
+	<true/>
+	<key>trashAfterTunesAdd</key>
+	<true/>
+	<key>optionsDisclosure</key>
+	<true/>
+	<key>fileSizeExclusionTag</key>
+	<integer>150</integer>
+	<key>webServer</key>
+	<false/>
+	<key>webServerPort</key>
+	<integer>54321</integer>
+</dict>
+</plist>

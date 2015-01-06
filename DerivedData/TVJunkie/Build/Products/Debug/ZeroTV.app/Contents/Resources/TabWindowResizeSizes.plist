@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>export</key>
+	<integer>415</integer>
+	<key>downloads</key>
+	<integer>365</integer>
+	<key>queue</key>
+	<integer>465</integer>
+	<key>log</key>
+	<integer>415</integer>
+</dict>
+</plist>

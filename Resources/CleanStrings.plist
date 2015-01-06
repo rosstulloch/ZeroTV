@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanStrings</key>
+	<array>
+		<string>BluRay</string>
+		<string>BDRip</string>
+		<string>mkv</string>
+		<string>mp4</string>
+		<string>HDTV</string>
+		<string>avi</string>
+		<string>720p</string>
+		<string>1080p</string>
+		<string>5.1ch</string>
+		<string>AAC</string>
+		<string>ac3</string>
+		<string>brrip</string>
+		<string>dvdrip</string>
+		<string>H264</string>
+		<string>HDRip</string>
+		<string>hdtv</string>
+		<string>x264</string>
+		<string>xvid</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1285 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 812}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 40DC872F12CD732200C42AC6 /* TVJunkie */;
+		activeTarget = 8D1107260486CEB800E47090 /* TVJunkie */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* TVJunkie */,
+		);
+		breakpoints = (
+			40DC87C412CD76BC00C42AC6 /* TVJunkieAppDelegate.m:114 */,
+			40DC88C712CD7DE500C42AC6 /* TVJunkieAppDelegate.m:114 */,
+			407B6F1812CE84C1004BD570 /* TVJunkieAppDelegate.m:114 */,
+			407B705212CEC27F004BD570 /* TVJunkieAppDelegate.m:114 */,
+			40AFF5AB12D6B77F00AB5C1A /* EncodeWindowController.m:153 */,
+			408E694512DC32140074979E /* VideoDownloadAutoQueuer.m:85 */,
+			40FFF84312DEA5E6007C9E82 /* TorrentAppScheduler.m:110 */,
+			40933DF612E11ABE0065DE14 /* VideoDownloadAutoQueuer.m:58 */,
+			40933F3812E3E44F0065DE14 /* RecentDownloads.m:276 */,
+			40933F8B12E3F2B30065DE14 /* RecentDownloads.m:287 */,
+			40933F9E12E3F32A0065DE14 /* RecentDownloads.m:64 */,
+			40933FA012E3F32C0065DE14 /* RecentDownloads.m:72 */,
+			400F555712EBE0D000F6F311 /* FeedMachine.m:223 */,
+			40A3E8F412F3CBA8000ED62B /* TVJunkieAppDelegate.m:47 */,
+			40A3E92612F3CDF4000ED62B /* FeedURLs.m:27 */,
+			40A3E97112F3D1D1000ED62B /* RecentDownloads.m:40 */,
+			406B3CB4130FBCAC00DB8E74 /* HBVideoEncoder.m:152 */,
+			40768B871310CEEF00B08B06 /* FeedURLs.m:16 */,
+		);
+		codeSenseManager = 40DC875812CD734000C42AC6 /* Code sense */;
+		executables = (
+			40DC872F12CD732200C42AC6 /* TVJunkie */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					980,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					744,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					940,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330588997;
+			PBXWorkspaceStateSaveDate = 330588997;
+		};
+		perUserProjectItems = {
+			4006025512EEA4850056AEA4 /* PBXTextBookmark */ = 4006025512EEA4850056AEA4 /* PBXTextBookmark */;
+			4006025612EEA4850056AEA4 /* PBXBookmark */ = 4006025612EEA4850056AEA4 /* PBXBookmark */;
+			400F51F112E9377D00F6F311 /* PBXTextBookmark */ = 400F51F112E9377D00F6F311 /* PBXTextBookmark */;
+			400F528A12E9440A00F6F311 /* PBXTextBookmark */ = 400F528A12E9440A00F6F311 /* PBXTextBookmark */;
+			400F52CC12E9754000F6F311 /* PBXTextBookmark */ = 400F52CC12E9754000F6F311 /* PBXTextBookmark */;
+			400F58D312ED142D00F6F311 /* PBXTextBookmark */ = 400F58D312ED142D00F6F311 /* PBXTextBookmark */;
+			40253DAA12E7D04B0042E957 /* PBXTextBookmark */ = 40253DAA12E7D04B0042E957 /* PBXTextBookmark */;
+			4044496812F40A2900F1C730 /* PBXTextBookmark */ = 4044496812F40A2900F1C730 /* PBXTextBookmark */;
+			405C57EC12F3700B0079FD2E /* PBXTextBookmark */ = 405C57EC12F3700B0079FD2E /* PBXTextBookmark */;
+			406B3CC4130FBCD900DB8E74 /* PlistBookmark */ = 406B3CC4130FBCD900DB8E74 /* PlistBookmark */;
+			40768BB1131115B600B08B06 /* PBXTextBookmark */ = 40768BB1131115B600B08B06 /* PBXTextBookmark */;
+			407B6FB212CEAFD9004BD570 /* PBXTextBookmark */ = 407B6FB212CEAFD9004BD570 /* PBXTextBookmark */;
+			40933D7512E1094F0065DE14 /* PBXTextBookmark */ = 40933D7512E1094F0065DE14 /* PBXTextBookmark */;
+			40933E6C12E13C0C0065DE14 /* PBXTextBookmark */ = 40933E6C12E13C0C0065DE14 /* PBXTextBookmark */;
+			40933E6E12E13C0C0065DE14 /* PBXTextBookmark */ = 40933E6E12E13C0C0065DE14 /* PBXTextBookmark */;
+			40933EF312E3AF010065DE14 /* PBXTextBookmark */ = 40933EF312E3AF010065DE14 /* PBXTextBookmark */;
+			40933EFD12E3B00D0065DE14 /* PBXTextBookmark */ = 40933EFD12E3B00D0065DE14 /* PBXTextBookmark */;
+			4093402212E4F9930065DE14 /* PBXTextBookmark */ = 4093402212E4F9930065DE14 /* PBXTextBookmark */;
+			409341DA12E79E370065DE14 /* PBXTextBookmark */ = 409341DA12E79E370065DE14 /* PBXTextBookmark */;
+			409342AE12E7B16D0065DE14 /* PBXTextBookmark */ = 409342AE12E7B16D0065DE14 /* PBXTextBookmark */;
+			40A2EFB41307766100F2F0C2 /* PlistBookmark */ = 40A2EFB41307766100F2F0C2 /* PlistBookmark */;
+			40A3E88E12F3BE7A000ED62B /* PlistBookmark */ = 40A3E88E12F3BE7A000ED62B /* PlistBookmark */;
+			40A3E9B312F3DBCB000ED62B /* PBXTextBookmark */ = 40A3E9B312F3DBCB000ED62B /* PBXTextBookmark */;
+			40B3FD8D1307E3D500212BB3 /* PlistBookmark */ = 40B3FD8D1307E3D500212BB3 /* PlistBookmark */;
+			40C8A8CB13AD8D2C00CB641C /* PBXTextBookmark */ = 40C8A8CB13AD8D2C00CB641C /* PBXTextBookmark */;
+			40C8A8CC13AD8D2C00CB641C /* PBXTextBookmark */ = 40C8A8CC13AD8D2C00CB641C /* PBXTextBookmark */;
+			40C8A8CD13AD8D2C00CB641C /* PBXTextBookmark */ = 40C8A8CD13AD8D2C00CB641C /* PBXTextBookmark */;
+			40C8A8CE13AD8D2C00CB641C /* PBXTextBookmark */ = 40C8A8CE13AD8D2C00CB641C /* PBXTextBookmark */;
+			40C8A8CF13AD8D2C00CB641C /* PBXTextBookmark */ = 40C8A8CF13AD8D2C00CB641C /* PBXTextBookmark */;
+			40C8A8D013AD8D2C00CB641C /* PBXTextBookmark */ = 40C8A8D013AD8D2C00CB641C /* PBXTextBookmark */;
+			40C8B20313B4656400CB641C /* PBXTextBookmark */ = 40C8B20313B4656400CB641C /* PBXTextBookmark */;
+			40C8B20413B4656400CB641C /* PBXTextBookmark */ = 40C8B20413B4656400CB641C /* PBXTextBookmark */;
+			40C8B20513B4656400CB641C /* PBXTextBookmark */ = 40C8B20513B4656400CB641C /* PBXTextBookmark */;
+			40C8B20613B4656400CB641C /* PBXTextBookmark */ = 40C8B20613B4656400CB641C /* PBXTextBookmark */;
+			40C8B20713B4656400CB641C /* PBXTextBookmark */ = 40C8B20713B4656400CB641C /* PBXTextBookmark */;
+			40C8B23313B544D300CB641C /* PBXTextBookmark */ = 40C8B23313B544D300CB641C /* PBXTextBookmark */;
+			40C8B23413B544D300CB641C /* PlistBookmark */ = 40C8B23413B544D300CB641C /* PlistBookmark */;
+			40C8B23513B544D300CB641C /* PBXTextBookmark */ = 40C8B23513B544D300CB641C /* PBXTextBookmark */;
+			40DA4EC912E013C300BF3548 /* PBXTextBookmark */ = 40DA4EC912E013C300BF3548 /* PBXTextBookmark */;
+			40DC886B12CD795B00C42AC6 /* PBXTextBookmark */ = 40DC886B12CD795B00C42AC6 /* PBXTextBookmark */;
+			40DC886D12CD795B00C42AC6 /* PBXTextBookmark */ = 40DC886D12CD795B00C42AC6 /* PBXTextBookmark */;
+			40DC88FE12CD7F9D00C42AC6 /* PBXTextBookmark */ = 40DC88FE12CD7F9D00C42AC6 /* PBXTextBookmark */;
+			40FFF7CF12DE9B5F007C9E82 /* PBXTextBookmark */ = 40FFF7CF12DE9B5F007C9E82 /* PBXTextBookmark */;
+			40FFF90E12DEED81007C9E82 /* PBXTextBookmark */ = 40FFF90E12DEED81007C9E82 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 40DC875712CD734000C42AC6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4006025512EEA4850056AEA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	4006025612EEA4850056AEA4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4006025112EEA4660056AEA4 /* AppIcons.icns */;
+	};
+	400F51C912E925C300F6F311 /* NSXMLNode.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSXMLNode.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSXMLNode.h;
+		sourceTree = "<absolute>";
+	};
+	400F51F112E9377D00F6F311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 400F51C912E925C300F6F311 /* NSXMLNode.h */;
+		name = "NSXMLNode.h: 54";
+		rLen = 46;
+		rLoc = 1162;
+		rType = 0;
+		vrLen = 1302;
+		vrLoc = 0;
+	};
+	400F528A12E9440A00F6F311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 400F528B12E9440A00F6F311 /* NSXMLNodeOptions.h */;
+		name = "NSXMLNodeOptions.h: 39";
+		rLen = 20;
+		rLoc = 2034;
+		rType = 0;
+		vrLen = 2624;
+		vrLoc = 0;
+	};
+	400F528B12E9440A00F6F311 /* NSXMLNodeOptions.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSXMLNodeOptions.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSXMLNodeOptions.h;
+		sourceTree = "<absolute>";
+	};
+	400F529112E944A900F6F311 /* FeedMachine.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = FeedMachine.m;
+		path = /Development/TVJunkie/Source/FeedMachine.m;
+		sourceTree = "<absolute>";
+	};
+	400F52CB12E9754000F6F311 /* NSData.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSData.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSData.h;
+		sourceTree = "<absolute>";
+	};
+	400F52CC12E9754000F6F311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 400F52CD12E9754000F6F311 /* NSArrayEnhanced.h */;
+		name = "NSArrayEnhanced.h: 21";
+		rLen = 75;
+		rLoc = 710;
+		rType = 0;
+		vrLen = 1169;
+		vrLoc = 0;
+	};
+	400F52CD12E9754000F6F311 /* NSArrayEnhanced.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSArrayEnhanced.h;
+		path = /Development/CommonCode/NSArrayEnhanced.h;
+		sourceTree = "<absolute>";
+	};
+	400F551712EBDD9400F6F311 /* FeedParserSupport.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 112}, {1346, 899}}";
+		};
+	};
+	400F555712EBE0D000F6F311 /* FeedMachine.m:223 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 400F529112E944A900F6F311 /* FeedMachine.m */;
+		functionName = "-downloadShowsThread:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 223;
+		modificationTime = 330232561.69059;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	400F571D12ECCF2D00F6F311 /* FeedURLs.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = FeedURLs.m;
+		path = /Development/TVJunkie/FeedURLs.m;
+		sourceTree = "<absolute>";
+	};
+	400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 91}, {1346, 899}}";
+		};
+	};
+	400F58D312ED142D00F6F311 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40F3189812CEDE0600A2495F /* HBDefaultArgs.txt */;
+		name = "HBDefaultArgs.txt: 1";
+		rLen = 0;
+		rLoc = 13;
+		rType = 0;
+		vrLen = 13;
+		vrLoc = 0;
+	};
+	40253D9D12E7D0140042E957 /* Logger.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	40253D9E12E7D0140042E957 /* Logger.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{437, 0}";
+			sepNavVisRange = "{0, 1036}";
+		};
+	};
+	40253DA412E7D0230042E957 /* SynthesizeSingleton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 966}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1203}";
+		};
+	};
+	40253DAA12E7D04B0042E957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40253DA412E7D0230042E957 /* SynthesizeSingleton.h */;
+		name = "SynthesizeSingleton.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1203;
+		vrLoc = 0;
+	};
+	402D753812CD8C4A00986E84 /* iTunesAddAppleScript.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{49, 0}";
+			sepNavVisRange = "{0, 49}";
+		};
+	};
+	402FA71612D4346900443313 /* EncodeWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{618, 0}";
+			sepNavVisRange = "{0, 1230}";
+			sepNavWindowFrame = "{{59, 118}, {1346, 899}}";
+		};
+	};
+	402FA71712D4346900443313 /* EncodeWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 4620}}";
+			sepNavSelRange = "{4006, 744}";
+			sepNavVisRange = "{2165, 1649}";
+			sepNavWindowFrame = "{{223, -41}, {1346, 899}}";
+		};
+	};
+	4044496812F40A2900F1C730 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 400F52CB12E9754000F6F311 /* NSData.h */;
+		name = "NSData.h: 17";
+		rLen = 41;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 2003;
+		vrLoc = 0;
+	};
+	405C57EC12F3700B0079FD2E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 402D753812CD8C4A00986E84 /* iTunesAddAppleScript.txt */;
+		name = "iTunesAddAppleScript.txt: 2";
+		rLen = 0;
+		rLoc = 49;
+		rType = 0;
+		vrLen = 49;
+		vrLoc = 0;
+	};
+	406B3CB4130FBCAC00DB8E74 /* HBVideoEncoder.m:152 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40FFF53E12DD5695007C9E82 /* HBVideoEncoder.m */;
+		functionName = "-hbTerminated:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 152;
+		modificationTime = 330232561.690703;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	406B3CC4130FBCD900DB8E74 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TVJunkie-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Development/TVJunkie/TVJunkie-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	40768B871310CEEF00B08B06 /* FeedURLs.m:16 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 400F571D12ECCF2D00F6F311 /* FeedURLs.m */;
+		functionName = "-awakeFromNib";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 16;
+		modificationTime = 330232561.690717;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	40768BB1131115B600B08B06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF7B012DE9759007C9E82 /* TorrentAppScheduler.h */;
+		name = "TorrentAppScheduler.h: 14";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 0;
+	};
+	407B6F1812CE84C1004BD570 /* TVJunkieAppDelegate.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */;
+		functionName = "-addTo_iTunes:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 114;
+		modificationTime = 330232561.690249;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	407B6F8612CEADCD004BD570 /* PrefsKeys.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{1127, 0}";
+			sepNavVisRange = "{0, 1192}";
+		};
+	};
+	407B6FB212CEAFD9004BD570 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 407B6FB312CEAFD9004BD570 /* NSFileManagerEnhanced.h */;
+		name = "NSFileManagerEnhanced.h: 27";
+		rLen = 46;
+		rLoc = 884;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 0;
+	};
+	407B6FB312CEAFD9004BD570 /* NSFileManagerEnhanced.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSFileManagerEnhanced.h;
+		path = /Development/CommonCode/NSFileManagerEnhanced.h;
+		sourceTree = "<absolute>";
+	};
+	407B705212CEC27F004BD570 /* TVJunkieAppDelegate.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */;
+		functionName = "-optionsDisclosureAction:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 114;
+		modificationTime = 330232561.690265;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	408E68D012D85BFC0074979E /* VideoDownloadAutoQueuer.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = VideoDownloadAutoQueuer.m;
+		path = /Development/TVJunkie/Source/VideoDownloadAutoQueuer.m;
+		sourceTree = "<absolute>";
+	};
+	408E694512DC32140074979E /* VideoDownloadAutoQueuer.m:85 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 408E68D012D85BFC0074979E /* VideoDownloadAutoQueuer.m */;
+		functionName = "-update";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 85;
+		modificationTime = 330232561.690341;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	40933D7512E1094F0065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933D7612E1094F0065DE14 /* NSString.h */;
+		name = "NSString.h: 35";
+		rLen = 43;
+		rLoc = 1662;
+		rType = 0;
+		vrLen = 2934;
+		vrLoc = 0;
+	};
+	40933D7612E1094F0065DE14 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	40933DF612E11ABE0065DE14 /* VideoDownloadAutoQueuer.m:58 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 408E68D012D85BFC0074979E /* VideoDownloadAutoQueuer.m */;
+		functionName = "-downloadFileFinished:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 58;
+		modificationTime = 330232561.690383;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	40933E6C12E13C0C0065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933E6D12E13C0C0065DE14 /* NSObject.h */;
+		name = "NSObject.h: 15";
+		rLen = 28;
+		rLoc = 307;
+		rType = 0;
+		vrLen = 1160;
+		vrLoc = 0;
+	};
+	40933E6D12E13C0C0065DE14 /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	40933E6E12E13C0C0065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933E6F12E13C0C0065DE14 /* NSScriptWhoseTests.h */;
+		name = "NSScriptWhoseTests.h: 62";
+		rLen = 30;
+		rLoc = 1525;
+		rType = 0;
+		vrLen = 2991;
+		vrLoc = 559;
+	};
+	40933E6F12E13C0C0065DE14 /* NSScriptWhoseTests.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSScriptWhoseTests.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSScriptWhoseTests.h;
+		sourceTree = "<absolute>";
+	};
+	40933EAF12E13E2B0065DE14 /* RecentDownloads.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{318, 0}";
+			sepNavVisRange = "{0, 1075}";
+		};
+	};
+	40933EB012E13E2B0065DE14 /* RecentDownloads.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1044, 4480}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 718}";
+			sepNavWindowFrame = "{{519, 116}, {1346, 899}}";
+		};
+	};
+	40933ECA12E148570065DE14 /* NSApplication.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSApplication.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSApplication.h;
+		sourceTree = "<absolute>";
+	};
+	40933EF312E3AF010065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933EF412E3AF010065DE14 /* QTMovie.h */;
+		name = "QTMovie.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 5691;
+		vrLoc = 3587;
+	};
+	40933EF412E3AF010065DE14 /* QTMovie.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = QTMovie.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QTKit.framework/Versions/A/Headers/QTMovie.h;
+		sourceTree = "<absolute>";
+	};
+	40933EFD12E3B00D0065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40DA4ECC12E013C300BF3548 /* NSURL.h */;
+		name = "NSURL.h: 221";
+		rLen = 174;
+		rLoc = 16113;
+		rType = 0;
+		vrLen = 7185;
+		vrLoc = 13781;
+	};
+	40933F3812E3E44F0065DE14 /* RecentDownloads.m:276 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */;
+		functionName = "-downloadFileFinished:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 276;
+		modificationTime = 330232561.690427;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40933F8B12E3F2B30065DE14 /* RecentDownloads.m:287 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */;
+		functionName = "-downloadFileFinished:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 287;
+		modificationTime = 330232561.69046;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40933F9E12E3F32A0065DE14 /* RecentDownloads.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */;
+		functionName = "-isVideoSmallerThanMinimunSize:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 64;
+		modificationTime = 330232561.690512;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40933FA012E3F32C0065DE14 /* RecentDownloads.m:72 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */;
+		functionName = "-doesVideoNamePassWordExclusionTest:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 72;
+		modificationTime = 330232561.6905379;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	4093401512E4F8440065DE14 /* NSDragging.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDragging.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSDragging.h;
+		sourceTree = "<absolute>";
+	};
+	4093402212E4F9930065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4093401512E4F8440065DE14 /* NSDragging.h */;
+		name = "NSDragging.h: 35";
+		rLen = 25;
+		rLoc = 949;
+		rType = 0;
+		vrLen = 2094;
+		vrLoc = 0;
+	};
+	409341DA12E79E370065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40F3189512CEDDE000A2495F /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	409342AE12E7B16D0065DE14 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933ECA12E148570065DE14 /* NSApplication.h */;
+		name = "NSApplication.h: 79";
+		rLen = 24;
+		rLoc = 3193;
+		rType = 0;
+		vrLen = 2777;
+		vrLoc = 1782;
+	};
+	40A2EFB41307766100F2F0C2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 400F551712EBDD9400F6F311 /* FeedParserSupport.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Development/TVJunkie/Resources/FeedParserSupport.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	40A3E88E12F3BE7A000ED62B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 40FFF5F712DE6C7D007C9E82 /* TagIDToPresetDictionary.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Development/TVJunkie/Resources/TagIDToPresetDictionary.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	40A3E8F412F3CBA8000ED62B /* TVJunkieAppDelegate.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		modificationTime = 330232561.690649;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40A3E92612F3CDF4000ED62B /* FeedURLs.m:27 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 400F571D12ECCF2D00F6F311 /* FeedURLs.m */;
+		functionName = "-save:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 27;
+		modificationTime = 330232561.6906701;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	40A3E97112F3D1D1000ED62B /* RecentDownloads.m:40 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */;
+		functionName = "-setup";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 40;
+		modificationTime = 330232561.6906871;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40A3E9B312F3DBCB000ED62B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40253D9D12E7D0140042E957 /* Logger.h */;
+		name = "Logger.h: 19";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	40AFF5AB12D6B77F00AB5C1A /* EncodeWindowController.m:153 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 402FA71712D4346900443313 /* EncodeWindowController.m */;
+		functionName = "-askIfIsOKToQuit";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 153;
+		modificationTime = 330232561.690317;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40B3FD8D1307E3D500212BB3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 40933E4C12E137B30065DE14 /* VideoExtensions.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Development/TVJunkie/Resources/VideoExtensions.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	40C8A8CB13AD8D2C00CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF8A312DEE606007C9E82 /* ToDo.txt */;
+		name = "ToDo.txt: 6";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 0;
+	};
+	40C8A8CC13AD8D2C00CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 407B6F8612CEADCD004BD570 /* PrefsKeys.h */;
+		name = "PrefsKeys.h: 29";
+		rLen = 0;
+		rLoc = 1127;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	40C8A8CD13AD8D2C00CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */;
+		name = "TVJunkieAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 1673;
+		vrLoc = 1291;
+	};
+	40C8A8CE13AD8D2C00CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40F3189212CEDDD300A2495F /* TVJunkieAppDelegate.h */;
+		name = "TVJunkieAppDelegate.h: 20";
+		rLen = 8;
+		rLoc = 454;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 0;
+	};
+	40C8A8CF13AD8D2C00CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 402FA71712D4346900443313 /* EncodeWindowController.m */;
+		name = "EncodeWindowController.m: 169";
+		rLen = 744;
+		rLoc = 4006;
+		rType = 0;
+		vrLen = 1649;
+		vrLoc = 2165;
+	};
+	40C8A8D013AD8D2C00CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 402FA71612D4346900443313 /* EncodeWindowController.h */;
+		name = "EncodeWindowController.h: 21";
+		rLen = 0;
+		rLoc = 618;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 0;
+	};
+	40C8B20313B4656400CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40253D9E12E7D0140042E957 /* Logger.m */;
+		name = "Logger.m: 21";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 0;
+	};
+	40C8B20413B4656400CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF53E12DD5695007C9E82 /* HBVideoEncoder.m */;
+		name = "HBVideoEncoder.m: 148";
+		rLen = 0;
+		rLoc = 3834;
+		rType = 0;
+		vrLen = 1445;
+		vrLoc = 0;
+	};
+	40C8B20513B4656400CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933EAF12E13E2B0065DE14 /* RecentDownloads.h */;
+		name = "RecentDownloads.h: 16";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 1075;
+		vrLoc = 0;
+	};
+	40C8B20613B4656400CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF53D12DD5695007C9E82 /* HBVideoEncoder.h */;
+		name = "HBVideoEncoder.h: 29";
+		rLen = 13;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 1430;
+		vrLoc = 0;
+	};
+	40C8B20713B4656400CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF7B112DE9759007C9E82 /* TorrentAppScheduler.m */;
+		name = "TorrentAppScheduler.m: 80";
+		rLen = 0;
+		rLoc = 2067;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 0;
+	};
+	40C8B23313B544D300CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */;
+		name = "RecentDownloads.m: 12";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 1856;
+		vrLoc = 0;
+	};
+	40C8B23413B544D300CB641C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			torrentapp,
+		);
+		name = /Development/TVJunkie/TVJunkie/Resources/TabWindowResizeSizes.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	40C8B23513B544D300CB641C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF8A312DEE606007C9E82 /* ToDo.txt */;
+		name = "ToDo.txt: 9";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 246;
+		vrLoc = 0;
+	};
+	40DA4EC912E013C300BF3548 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40DA4ECA12E013C300BF3548 /* NSFileManager.h */;
+		name = "NSFileManager.h: 42";
+		rLen = 66;
+		rLoc = 1549;
+		rType = 0;
+		vrLen = 2465;
+		vrLoc = 0;
+	};
+	40DA4ECA12E013C300BF3548 /* NSFileManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSFileManager.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSFileManager.h;
+		sourceTree = "<absolute>";
+	};
+	40DA4ECC12E013C300BF3548 /* NSURL.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSURL.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSURL.h;
+		sourceTree = "<absolute>";
+	};
+	40DC872F12CD732200C42AC6 /* TVJunkie */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TVJunkie;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	40DC875712CD734000C42AC6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	40DC875812CD734000C42AC6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	40DC87C412CD76BC00C42AC6 /* TVJunkieAppDelegate.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */;
+		functionName = "-application:openFile:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 114;
+		modificationTime = 330232561.690178;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40DC886B12CD795B00C42AC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40DC886C12CD795B00C42AC6 /* NSDictionaryEnhanced.h */;
+		name = "NSDictionaryEnhanced.h: 18";
+		rLen = 31;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 1121;
+		vrLoc = 0;
+	};
+	40DC886C12CD795B00C42AC6 /* NSDictionaryEnhanced.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDictionaryEnhanced.h;
+		path = /Development/CommonCode/NSDictionaryEnhanced.h;
+		sourceTree = "<absolute>";
+	};
+	40DC886D12CD795B00C42AC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40DC886E12CD795B00C42AC6 /* NSDictionaryEnhanced.m */;
+		name = "NSDictionaryEnhanced.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 645;
+	};
+	40DC886E12CD795B00C42AC6 /* NSDictionaryEnhanced.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = NSDictionaryEnhanced.m;
+		path = /Development/CommonCode/NSDictionaryEnhanced.m;
+		sourceTree = "<absolute>";
+	};
+	40DC88C712CD7DE500C42AC6 /* TVJunkieAppDelegate.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */;
+		functionName = "-hbReadNotify:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 114;
+		modificationTime = 330232561.690227;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40DC88FE12CD7F9D00C42AC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40DC88FF12CD7F9D00C42AC6 /* NSCharacterSet.h */;
+		name = "NSCharacterSet.h: 19";
+		rLen = 30;
+		rLoc = 395;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	40DC88FF12CD7F9D00C42AC6 /* NSCharacterSet.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSCharacterSet.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSCharacterSet.h;
+		sourceTree = "<absolute>";
+	};
+	40F3189212CEDDD300A2495F /* TVJunkieAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{454, 8}";
+			sepNavVisRange = "{0, 778}";
+			sepNavWindowFrame = "{{370, 71}, {1346, 899}}";
+		};
+	};
+	40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 1624}}";
+			sepNavSelRange = "{908, 0}";
+			sepNavVisRange = "{1291, 1673}";
+			sepNavWindowFrame = "{{251, 72}, {1346, 899}}";
+		};
+	};
+	40F3189512CEDDE000A2495F /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	40F3189812CEDE0600A2495F /* HBDefaultArgs.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 810}}";
+			sepNavSelRange = "{13, 0}";
+			sepNavVisRange = "{0, 13}";
+		};
+	};
+	40FFF53D12DD5695007C9E82 /* HBVideoEncoder.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{762, 13}";
+			sepNavVisRange = "{0, 1430}";
+			sepNavWindowFrame = "{{107, 70}, {1346, 899}}";
+		};
+	};
+	40FFF53E12DD5695007C9E82 /* HBVideoEncoder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 3430}}";
+			sepNavSelRange = "{3834, 0}";
+			sepNavVisRange = "{0, 1445}";
+			sepNavWindowFrame = "{{107, 70}, {1346, 899}}";
+		};
+	};
+	40FFF5F712DE6C7D007C9E82 /* TagIDToPresetDictionary.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 91}, {1346, 899}}";
+		};
+	};
+	40FFF7B012DE9759007C9E82 /* TorrentAppScheduler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{273, 0}";
+			sepNavVisRange = "{0, 520}";
+		};
+	};
+	40FFF7B112DE9759007C9E82 /* TorrentAppScheduler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 1638}}";
+			sepNavSelRange = "{2067, 0}";
+			sepNavVisRange = "{0, 1429}";
+			sepNavWindowFrame = "{{130, 49}, {1346, 899}}";
+		};
+	};
+	40FFF7CF12DE9B5F007C9E82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF7D012DE9B5F007C9E82 /* NSPathControl.h */;
+		name = "NSPathControl.h: 20";
+		rLen = 13;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 2031;
+		vrLoc = 0;
+	};
+	40FFF7D012DE9B5F007C9E82 /* NSPathControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSPathControl.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSPathControl.h;
+		sourceTree = "<absolute>";
+	};
+	40FFF84312DEA5E6007C9E82 /* TorrentAppScheduler.m:110 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 40FFF7B112DE9759007C9E82 /* TorrentAppScheduler.m */;
+		functionName = "-quitTorrentAppTime:withHour:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 110;
+		modificationTime = 330232561.69036;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	40FFF8A312DEE606007C9E82 /* ToDo.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1158, 835}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{0, 246}";
+			sepNavWindowFrame = "{{61, 112}, {1346, 899}}";
+		};
+	};
+	40FFF90E12DEED81007C9E82 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 40FFF90F12DEED81007C9E82 /* NSWindow.h */;
+		name = "NSWindow.h: 662";
+		rLen = 86;
+		rLoc = 29984;
+		rType = 0;
+		vrLen = 4256;
+		vrLoc = 29643;
+	};
+	40FFF90F12DEED81007C9E82 /* NSWindow.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSWindow.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSWindow.h;
+		sourceTree = "<absolute>";
+	};
+	8D1107260486CEB800E47090 /* TVJunkie */ = {
+		activeExec = 0;
+		executables = (
+			40DC872F12CD732200C42AC6 /* TVJunkie */,
+		);
+	};
+}

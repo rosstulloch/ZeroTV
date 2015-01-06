@@ -1,0 +1,404 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		40001F1D15EC4E670095E888 /* AppIcons.icns in Resources */ = {isa = PBXBuildFile; fileRef = 40001F1C15EC4E670095E888 /* AppIcons.icns */; };
+		400F586412ECF4A700F6F311 /* TabWindowResizeSizes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */; };
+		40128A56150C15660054D804 /* CleanStrings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 40128A55150C15660054D804 /* CleanStrings.plist */; };
+		40128A5C150C18010054D804 /* ResourcesSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = 40128A5B150C18010054D804 /* ResourcesSupport.m */; };
+		402AAAD913CFEF150098F808 /* Credits.html in Resources */ = {isa = PBXBuildFile; fileRef = 402AAAD813CFEF150098F808 /* Credits.html */; };
+		402AAB4613D273950098F808 /* PreferencesSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = 402AAB4513D273940098F808 /* PreferencesSupport.m */; };
+		402FA71812D4346900443313 /* EncodeWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 402FA71712D4346900443313 /* EncodeWindowController.m */; };
+		407FEFF013E79F97001C9526 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 407FEFEF13E79F97001C9526 /* Security.framework */; };
+		40933EB112E13E2B0065DE14 /* RecentDownloads.m in Sources */ = {isa = PBXBuildFile; fileRef = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */; };
+		40BF13B9142C2BFD00E4BA5D /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 40BF13B8142C2BFD00E4BA5D /* index.html */; };
+		40C2988513CEEE2000E201A1 /* Defaults.plist in Resources */ = {isa = PBXBuildFile; fileRef = 40C2988413CEEE2000E201A1 /* Defaults.plist */; };
+		40F3189412CEDDD300A2495F /* TVJunkieAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */; };
+		40F3189612CEDDE000A2495F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F3189512CEDDE000A2495F /* main.m */; };
+		40FC8B7713EBCBCA0035FAF3 /* LLWS.m in Sources */ = {isa = PBXBuildFile; fileRef = 40FC8B7613EBCBCA0035FAF3 /* LLWS.m */; };
+		40FFF53F12DD5695007C9E82 /* HBVideoEncoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 40FFF53E12DD5695007C9E82 /* HBVideoEncoder.m */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		256AC3F00F4B6AF500CF3369 /* TVJunkie_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVJunkie_Prefix.pch; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		40001F1C15EC4E670095E888 /* AppIcons.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = AppIcons.icns; path = ../Artwork/Icons/AppIcons.icns; sourceTree = "<group>"; };
+		400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = TabWindowResizeSizes.plist; path = Resources/TabWindowResizeSizes.plist; sourceTree = "<group>"; };
+		40128A55150C15660054D804 /* CleanStrings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = CleanStrings.plist; path = Resources/CleanStrings.plist; sourceTree = "<group>"; };
+		40128A5A150C18010054D804 /* ResourcesSupport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ResourcesSupport.h; path = Source/ResourcesSupport.h; sourceTree = "<group>"; };
+		40128A5B150C18010054D804 /* ResourcesSupport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ResourcesSupport.m; path = Source/ResourcesSupport.m; sourceTree = "<group>"; };
+		402AAAD813CFEF150098F808 /* Credits.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Credits.html; path = Resources/Credits.html; sourceTree = "<group>"; };
+		402AAB4413D273940098F808 /* PreferencesSupport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PreferencesSupport.h; path = Source/PreferencesSupport.h; sourceTree = "<group>"; };
+		402AAB4513D273940098F808 /* PreferencesSupport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PreferencesSupport.m; path = Source/PreferencesSupport.m; sourceTree = "<group>"; };
+		402FA71612D4346900443313 /* EncodeWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EncodeWindowController.h; path = Source/EncodeWindowController.h; sourceTree = "<group>"; };
+		402FA71712D4346900443313 /* EncodeWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EncodeWindowController.m; path = Source/EncodeWindowController.m; sourceTree = "<group>"; };
+		407B6F8612CEADCD004BD570 /* PrefsKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrefsKeys.h; path = Source/PrefsKeys.h; sourceTree = "<group>"; };
+		407FEFEF13E79F97001C9526 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		40933EAF12E13E2B0065DE14 /* RecentDownloads.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RecentDownloads.h; path = Source/RecentDownloads.h; sourceTree = "<group>"; };
+		40933EB012E13E2B0065DE14 /* RecentDownloads.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RecentDownloads.m; path = Source/RecentDownloads.m; sourceTree = "<group>"; };
+		409B66A018C7DA1800A70850 /* ToDo.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = ToDo.txt; path = ../ToDo.txt; sourceTree = "<group>"; };
+		40BF13B8142C2BFD00E4BA5D /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = Resources/index.html; sourceTree = "<group>"; };
+		40C2988413CEEE2000E201A1 /* Defaults.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Defaults.plist; path = Resources/Defaults.plist; sourceTree = "<group>"; };
+		40F3189212CEDDD300A2495F /* TVJunkieAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TVJunkieAppDelegate.h; path = Source/TVJunkieAppDelegate.h; sourceTree = "<group>"; };
+		40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TVJunkieAppDelegate.m; path = Source/TVJunkieAppDelegate.m; sourceTree = "<group>"; };
+		40F3189512CEDDE000A2495F /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Source/main.m; sourceTree = "<group>"; };
+		40FC8B7513EBCBCA0035FAF3 /* LLWS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LLWS.h; path = Source/LLWS.h; sourceTree = "<group>"; };
+		40FC8B7613EBCBCA0035FAF3 /* LLWS.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LLWS.m; path = Source/LLWS.m; sourceTree = "<group>"; };
+		40FFF53D12DD5695007C9E82 /* HBVideoEncoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HBVideoEncoder.h; path = Source/HBVideoEncoder.h; sourceTree = "<group>"; };
+		40FFF53E12DD5695007C9E82 /* HBVideoEncoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HBVideoEncoder.m; path = Source/HBVideoEncoder.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* TVJunkie-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TVJunkie-Info.plist"; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* ZeroTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZeroTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				407FEFF013E79F97001C9526 /* Security.framework in Frameworks */,
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				407B6F8612CEADCD004BD570 /* PrefsKeys.h */,
+				40FC8B7613EBCBCA0035FAF3 /* LLWS.m */,
+				40FC8B7513EBCBCA0035FAF3 /* LLWS.h */,
+				40F3189312CEDDD300A2495F /* TVJunkieAppDelegate.m */,
+				40F3189212CEDDD300A2495F /* TVJunkieAppDelegate.h */,
+				402FA71712D4346900443313 /* EncodeWindowController.m */,
+				402FA71612D4346900443313 /* EncodeWindowController.h */,
+				40FFF53E12DD5695007C9E82 /* HBVideoEncoder.m */,
+				40FFF53D12DD5695007C9E82 /* HBVideoEncoder.h */,
+				40933EB012E13E2B0065DE14 /* RecentDownloads.m */,
+				40933EAF12E13E2B0065DE14 /* RecentDownloads.h */,
+				40128A5B150C18010054D804 /* ResourcesSupport.m */,
+				40128A5A150C18010054D804 /* ResourcesSupport.h */,
+				402AAB4513D273940098F808 /* PreferencesSupport.m */,
+				402AAB4413D273940098F808 /* PreferencesSupport.h */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				407FEFEF13E79F97001C9526 /* Security.framework */,
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* ZeroTV.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* TVJunkie */ = {
+			isa = PBXGroup;
+			children = (
+				409B66A018C7DA1800A70850 /* ToDo.txt */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = TVJunkie;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				40F3189512CEDDE000A2495F /* main.m */,
+				256AC3F00F4B6AF500CF3369 /* TVJunkie_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				40BF13B8142C2BFD00E4BA5D /* index.html */,
+				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
+				40C2988413CEEE2000E201A1 /* Defaults.plist */,
+				40128A55150C15660054D804 /* CleanStrings.plist */,
+				402AAAD813CFEF150098F808 /* Credits.html */,
+				400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */,
+				8D1107310486CEB800E47090 /* TVJunkie-Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				40001F1C15EC4E670095E888 /* AppIcons.icns */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* TVJunkie */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "TVJunkie" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TVJunkie;
+			productInstallPath = "$(HOME)/Applications";
+			productName = TVJunkie;
+			productReference = 8D1107320486CEB800E47090 /* ZeroTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				TargetAttributes = {
+					8D1107260486CEB800E47090 = {
+						DevelopmentTeam = ZR7LDMP3AD;
+					};
+				};
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TVJunkie" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* TVJunkie */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* TVJunkie */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				400F586412ECF4A700F6F311 /* TabWindowResizeSizes.plist in Resources */,
+				40C2988513CEEE2000E201A1 /* Defaults.plist in Resources */,
+				402AAAD913CFEF150098F808 /* Credits.html in Resources */,
+				40BF13B9142C2BFD00E4BA5D /* index.html in Resources */,
+				40128A56150C15660054D804 /* CleanStrings.plist in Resources */,
+				40001F1D15EC4E670095E888 /* AppIcons.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				40F3189412CEDDD300A2495F /* TVJunkieAppDelegate.m in Sources */,
+				40F3189612CEDDE000A2495F /* main.m in Sources */,
+				402FA71812D4346900443313 /* EncodeWindowController.m in Sources */,
+				40FFF53F12DD5695007C9E82 /* HBVideoEncoder.m in Sources */,
+				40933EB112E13E2B0065DE14 /* RecentDownloads.m in Sources */,
+				402AAB4613D273950098F808 /* PreferencesSupport.m in Sources */,
+				40FC8B7713EBCBCA0035FAF3 /* LLWS.m in Sources */,
+				40128A5C150C18010054D804 /* ResourcesSupport.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58140DA1D0A300B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58150DA1D0A300B32029 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TVJunkie_Prefix.pch;
+				INFOPLIST_FILE = "TVJunkie-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = ZeroTV;
+				PROVISIONING_PROFILE = "";
+				VALID_ARCHS = x86_64;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = TVJunkie_Prefix.pch;
+				INFOPLIST_FILE = "TVJunkie-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PRODUCT_NAME = ZeroTV;
+				PROVISIONING_PROFILE = "";
+				VALID_ARCHS = x86_64;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				VALID_ARCHS = x86_64;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx;
+				VALID_ARCHS = x86_64;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "TVJunkie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TVJunkie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
