@@ -349,7 +349,7 @@ maximumMessageSize:(unsigned long)maxHTTPSize
         BOOL    sendReply = YES;
         
         // Have we got the entire message, including body?
-        int         contentLength = [CFBridgingRelease(CFHTTPMessageCopyHeaderFieldValue( httpMessage, (CFTypeRef)@"Content-Length" )) integerValue];
+        long         contentLength = [CFBridgingRelease(CFHTTPMessageCopyHeaderFieldValue( httpMessage, (CFTypeRef)@"Content-Length" )) integerValue];
         if ( contentLength > 0 ) {
             NSData*    content = CFBridgingRelease(CFHTTPMessageCopyBody( httpMessage ));
             if ( content == NULL || contentLength > [content length] ) {
