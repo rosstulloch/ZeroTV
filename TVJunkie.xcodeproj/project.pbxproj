@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
-		40001F1D15EC4E670095E888 /* AppIcons.icns in Resources */ = {isa = PBXBuildFile; fileRef = 40001F1C15EC4E670095E888 /* AppIcons.icns */; };
 		400F586412ECF4A700F6F311 /* TabWindowResizeSizes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */; };
 		40128A56150C15660054D804 /* CleanStrings.plist in Resources */ = {isa = PBXBuildFile; fileRef = 40128A55150C15660054D804 /* CleanStrings.plist */; };
 		40128A5C150C18010054D804 /* ResourcesSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = 40128A5B150C18010054D804 /* ResourcesSupport.m */; };
@@ -35,7 +34,6 @@
 		256AC3F00F4B6AF500CF3369 /* TVJunkie_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVJunkie_Prefix.pch; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
-		40001F1C15EC4E670095E888 /* AppIcons.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = AppIcons.icns; path = ../Artwork/Icons/AppIcons.icns; sourceTree = "<group>"; };
 		400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = TabWindowResizeSizes.plist; path = Resources/TabWindowResizeSizes.plist; sourceTree = "<group>"; };
 		40128A55150C15660054D804 /* CleanStrings.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = CleanStrings.plist; path = Resources/CleanStrings.plist; sourceTree = "<group>"; };
 		40128A5A150C18010054D804 /* ResourcesSupport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ResourcesSupport.h; path = Source/ResourcesSupport.h; sourceTree = "<group>"; };
@@ -45,6 +43,7 @@
 		402AAB4513D273940098F808 /* PreferencesSupport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PreferencesSupport.m; path = Source/PreferencesSupport.m; sourceTree = "<group>"; };
 		402FA71612D4346900443313 /* EncodeWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EncodeWindowController.h; path = Source/EncodeWindowController.h; sourceTree = "<group>"; };
 		402FA71712D4346900443313 /* EncodeWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EncodeWindowController.m; path = Source/EncodeWindowController.m; sourceTree = "<group>"; };
+		403F38AE1F95783300F01D9B /* AppIcons.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = AppIcons.icns; path = Resources/AppIcons.icns; sourceTree = "<group>"; };
 		407B6F8612CEADCD004BD570 /* PrefsKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrefsKeys.h; path = Source/PrefsKeys.h; sourceTree = "<group>"; };
 		407FEFEF13E79F97001C9526 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		40933EAF12E13E2B0065DE14 /* RecentDownloads.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RecentDownloads.h; path = Source/RecentDownloads.h; sourceTree = "<group>"; };
@@ -158,7 +157,7 @@
 				400F586312ECF4A700F6F311 /* TabWindowResizeSizes.plist */,
 				8D1107310486CEB800E47090 /* TVJunkie-Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
-				40001F1C15EC4E670095E888 /* AppIcons.icns */,
+				403F38AE1F95783300F01D9B /* AppIcons.icns */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -237,7 +236,6 @@
 				402AAAD913CFEF150098F808 /* Credits.html in Resources */,
 				40BF13B9142C2BFD00E4BA5D /* index.html in Resources */,
 				40128A56150C15660054D804 /* CleanStrings.plist in Resources */,
-				40001F1D15EC4E670095E888 /* AppIcons.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
