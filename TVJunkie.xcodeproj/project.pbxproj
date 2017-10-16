@@ -14,6 +14,7 @@
 		402AAAD913CFEF150098F808 /* Credits.html in Resources */ = {isa = PBXBuildFile; fileRef = 402AAAD813CFEF150098F808 /* Credits.html */; };
 		402AAB4613D273950098F808 /* PreferencesSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = 402AAB4513D273940098F808 /* PreferencesSupport.m */; };
 		402FA71812D4346900443313 /* EncodeWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 402FA71712D4346900443313 /* EncodeWindowController.m */; };
+		403F38B01F957C0600F01D9B /* ToDo.txt in Resources */ = {isa = PBXBuildFile; fileRef = 403F38AF1F957C0600F01D9B /* ToDo.txt */; };
 		407FEFF013E79F97001C9526 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 407FEFEF13E79F97001C9526 /* Security.framework */; };
 		40933EB112E13E2B0065DE14 /* RecentDownloads.m in Sources */ = {isa = PBXBuildFile; fileRef = 40933EB012E13E2B0065DE14 /* RecentDownloads.m */; };
 		40BF13B9142C2BFD00E4BA5D /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 40BF13B8142C2BFD00E4BA5D /* index.html */; };
@@ -44,11 +45,11 @@
 		402FA71612D4346900443313 /* EncodeWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EncodeWindowController.h; path = Source/EncodeWindowController.h; sourceTree = "<group>"; };
 		402FA71712D4346900443313 /* EncodeWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EncodeWindowController.m; path = Source/EncodeWindowController.m; sourceTree = "<group>"; };
 		403F38AE1F95783300F01D9B /* AppIcons.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = AppIcons.icns; path = Resources/AppIcons.icns; sourceTree = "<group>"; };
+		403F38AF1F957C0600F01D9B /* ToDo.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ToDo.txt; sourceTree = "<group>"; };
 		407B6F8612CEADCD004BD570 /* PrefsKeys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrefsKeys.h; path = Source/PrefsKeys.h; sourceTree = "<group>"; };
 		407FEFEF13E79F97001C9526 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		40933EAF12E13E2B0065DE14 /* RecentDownloads.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RecentDownloads.h; path = Source/RecentDownloads.h; sourceTree = "<group>"; };
 		40933EB012E13E2B0065DE14 /* RecentDownloads.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RecentDownloads.m; path = Source/RecentDownloads.m; sourceTree = "<group>"; };
-		409B66A018C7DA1800A70850 /* ToDo.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = ToDo.txt; path = ../ToDo.txt; sourceTree = "<group>"; };
 		40BF13B8142C2BFD00E4BA5D /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = Resources/index.html; sourceTree = "<group>"; };
 		40C2988413CEEE2000E201A1 /* Defaults.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Defaults.plist; path = Resources/Defaults.plist; sourceTree = "<group>"; };
 		40F3189212CEDDD300A2495F /* TVJunkieAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TVJunkieAppDelegate.h; path = Source/TVJunkieAppDelegate.h; sourceTree = "<group>"; };
@@ -127,7 +128,7 @@
 		29B97314FDCFA39411CA2CEA /* TVJunkie */ = {
 			isa = PBXGroup;
 			children = (
-				409B66A018C7DA1800A70850 /* ToDo.txt */,
+				403F38AF1F957C0600F01D9B /* ToDo.txt */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -233,6 +234,7 @@
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
 				400F586412ECF4A700F6F311 /* TabWindowResizeSizes.plist in Resources */,
 				40C2988513CEEE2000E201A1 /* Defaults.plist in Resources */,
+				403F38B01F957C0600F01D9B /* ToDo.txt in Resources */,
 				402AAAD913CFEF150098F808 /* Credits.html in Resources */,
 				40BF13B9142C2BFD00E4BA5D /* index.html in Resources */,
 				40128A56150C15660054D804 /* CleanStrings.plist in Resources */,
